@@ -1,3 +1,3 @@
-module github.com/dimleevik/cache
+module github.com/dimleevik/cacher
 
 go 1.19
